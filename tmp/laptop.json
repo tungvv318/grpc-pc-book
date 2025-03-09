@@ -1,0 +1,62 @@
+{
+  "id": "9986bb35-cbb5-4c1c-81ba-1ee39f2719b4",
+  "brand": "Lenovo",
+  "name": "Thinkpad X1",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i3-1005G1",
+    "number_cores": 5,
+    "number_threads": 10,
+    "min_ghz": 2.8744463660146535,
+    "max_ghz": 3.8517399580184675
+  },
+  "ram": {
+    "value": "19",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "AMD",
+      "name": "RX 580",
+      "min_ghz": 1.3286744089598963,
+      "max_ghz": 1.475162765676277,
+      "memory": {
+        "value": "5",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "209",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "1",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 15.869854,
+    "resolution": {
+      "width": 5589,
+      "height": 3144
+    },
+    "panel": "IPS",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "QWERTY",
+    "backlit": true
+  },
+  "weight_kg": 2.3468073952484745,
+  "price_usd": 2907.7815217853376,
+  "release_year": 2016,
+  "updated_at": "2025-02-27T16:59:17.458584Z"
+}

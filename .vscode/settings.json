@@ -1,0 +1,11 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "explorer.openEditors.visible": 0,
+    "protoc": {
+        "path": "/usr/local/bin/protoc",
+        "options": [
+            "--proto_path=proto"
+        ]
+    }
+}
